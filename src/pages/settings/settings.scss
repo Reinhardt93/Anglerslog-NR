@@ -1,0 +1,21 @@
+.ios, .md {
+
+    about-page {
+
+      .scroll {
+        height: 100%
+      }
+
+      #map {
+        width: 100%;
+        height: 100%;
+      }
+
+    }
+
+}
+.label-ios + ion-input .text-input, .label-ios + ion-textarea .text-input, .label-ios + .input + .cloned-input{
+  background-color:#eee;
+  border-radius:5px;
+  padding:5px;
+}
